@@ -8,6 +8,8 @@ This repository is my work that follows through UC Berkley's Introduction to Mac
 
 Please note that these answers are not all correct. While I do try to check my work, the course page does not post the answers publicly. If you do catch any mistakes in the homework, please let me know. 
 
+A lot of my answers are not EXACTLY the way that the course wants you to solve it. For some problems, I wanted to add my own twist to understand the material better.
+
 # Questions I Don't Have Answers For
 This is an accumulation of all the questions that I have while working through this class. Some of these questions I tried searching online, however do not really provide a sufficient explanation but despite this I'll keep them hear.
 <ol>
@@ -15,7 +17,7 @@ This is an accumulation of all the questions that I have while working through t
 </ol>
 
 # Homework 1 Tips
-Homework 1 took a while for me as it was one of my first deep introduction to machine learning. These were some of the resources that I utilized that got me through homework 1.
+Homework 1 took a while for me as it was one of my first deep introduction to machine learning. These were some of the resources that I utilized that got me through homework 1. 
 
 Support Vector Machines is complicated. Despite it's simplicity from the outside, oftentimes the simplicity omits the complexity behind them. These were some of the videos that got me to understand the material better.
 
