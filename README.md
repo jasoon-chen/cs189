@@ -32,3 +32,7 @@ Support Vector Machines is complicated. Despite it's simplicity from the outside
 [Understanding Lagrange Multipliers Visually](https://www.youtube.com/watch?v=5A39Ht9Wcu0)
 
 Most importantly, it is CRUCIAL in my opinion to understand the math behind SVM's. This lecture slides from San Jose State University really helped me to understand the deriviation behind SVM's. [MATH 251](https://www.sjsu.edu/faculty/guangliang.chen/Math251/lec5svm.pdf)
+
+# Progress
+
+This repo is not completed yet and I will continiously update this while I go through the course.
